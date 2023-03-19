@@ -213,6 +213,26 @@ export const EVENT_LIST: object[] = [
     subTitle: '+15 EVENTS',
     image: require('../assets/images/square/3.jpeg'),
   },
+  {
+    title: 'COMEDY MUSIC & MORE',
+    subTitle: 'square/25+ EVENTS',
+    image: require('../assets/images/square/1.jpeg'),
+  },
+  {
+    title: 'COURSES & MASTERCLASSES',
+    subTitle: '15+ EVENTS',
+    image: require('../assets/images/square/2.jpeg'),
+  },
+  {
+    title: 'THRILLING ACTIVITIES',
+    subTitle: '25+ EVENTS',
+    image: require('../assets/images/square/3.jpeg'),
+  },
+  {
+    title: 'GROW YOUR HOBBY',
+    subTitle: '+15 EVENTS',
+    image: require('../assets/images/square/3.jpeg'),
+  },
 ];
 
 export const BUY_CAROUSEL: object[] = [
